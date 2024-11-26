@@ -1,0 +1,72 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Anton SC", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px purple;
+    padding: 20px;
+    font-size: 32px;
+    color: purple;
+}
+
+.ILHAMISTERIOSA {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.ilha{
+    opacity: 0.5;
+    height: 200px;
+}
+
+.ilha:hover{
+    opacity: 1.0;
+    border: 1px solid green;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+
+.Vingadores {
+    background: rgb(212, 83, 83);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.Vingadores-ultimato{
+    opacity: 0.5;
+    height: 200px;
+}
+
+.Vingadores-ultimato:hover{
+    opacity: 1.0;
+    border: 1px solid white;
+}
+
+.chamada-texto2 {
+    margin-right: 5%;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
